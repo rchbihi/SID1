@@ -1,0 +1,1 @@
+Dossier destiné aux classes d'accès à la base de données

@@ -1,0 +1,1 @@
+Dossier destiné aux classe du domaine de l'application
