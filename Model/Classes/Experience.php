@@ -1,7 +1,7 @@
 <?php
 
 require_once('CV.php'); 
-public class Experience{
+class Experience{
 	// attributs de la classe 
 	private $_date_debut; 
 	private $_date_fin; 
